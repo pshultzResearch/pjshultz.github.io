@@ -2,11 +2,11 @@
 title: "Is There an On-the-Run Premium in TIPS?"
 collection: publications
 permalink: /publication/2020-03-20-otr_premium_TIPS
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2017-09-15
 venue: 'Journal 1'
 paperurl: 'https://www.frbsf.org/economic-research/files/wp2017-10.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Christensen, Jens H. E., Jose A. Lopez, Patrick Shultz. 2017.  &quot;Is there an On-The-Run Premium
+in TIPS?.&quot; <i>Federal Reserve Bank of San Francisco Working Paper </i>'
 ---
 In this paper, yield spreads
 between pairs of Treasury Inflation-Protected Securities (TIPS) with identical maturities

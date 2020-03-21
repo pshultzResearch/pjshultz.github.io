@@ -1,12 +1,9 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Papers"
     url: /publications/
 
-  - title: "Working Papers"
-    url: /working-papers/
-
-  - title: "Blog Posts"
+  - title: "Posts"
     url: /year-archive/
 
   - title: "CV"
