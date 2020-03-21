@@ -20,20 +20,12 @@ Work experience
 
 * 2015-2016: Financial Analyst, ICONIQ Capital
 
-
 Working Papers
 ======
 * Christensen, Jens H. E., Jose A. Lopez, Patrick Shultz. 2017. “Is there an On-The-Run Premium in TIPS?” Federal Reserve Bank of San Francisco Working Paper 2017-10. https://doi.org/10.24148/wp2017-10
 
 * Christensen, Jens H. E., Eric Fischer, Patrick Shultz. 2019. “Bond Flows and Liquidity: Do Foreigners Matter?” Federal Reserve Bank of San Francisco Working Paper 2019-08. https://doi.org/10.24148/wp2019-08
 
-
-
-Teaching Assistance
-======
-* Spring 2020
-  * FNCE 385/885: FinTech: Business, Data, and Analytics for Dr. Shimon Kogan
-  * FNCE 239/739: Behavioral Finance for Professor Nikolai Roussanov
 
 Non-academic Articles
 ======
@@ -52,3 +44,9 @@ Non-academic Articles
 Skills
 ======
 * R, Matlab, Java
+
+Teaching Assistance
+======
+* Spring 2020
+  * FNCE 385/885: FinTech: Business, Data, and Analytics for Dr. Shimon Kogan
+  * FNCE 239/739: Behavioral Finance for Professor Nikolai Roussanov
