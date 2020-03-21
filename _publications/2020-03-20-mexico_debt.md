@@ -1,9 +1,9 @@
 ---
-title: "Is There an On-the-Run Premium in TIPS?"
+title: "Bond Flows and Liquidity: Do Foreigners Matter?"
 collection: publications
-permalink: /publication/2020-03-20-otr_premium_TIPS
+permalink: /publication/2020-03-20-mexico_debt
 date: 2019-12-15
-venue: 'Journal 1'
+# venue: 'Journal 1'
 paperurl: 'https://www.frbsf.org/economic-research/files/wp2019-08.pdf'
 citation: 'Christensen, Jens H. E., Eric Fischer, Patrick Shultz. 2017.  &quot;Bond Flows and Liquidity:
 Do Foreigners Matter?&quot; <i>Federal Reserve Bank of San Francisco Working Paper </i>'
