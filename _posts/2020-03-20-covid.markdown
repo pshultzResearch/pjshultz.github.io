@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thoughts on the economics of COVID-19"
-date:   2020-03-19 15:56:13 -0400
+date:   2020-03-22 11:00:00 -0400
 categories: Thoughts
 ---
-If you are like me, you have probably found it difficult to focus on anything besides the ongoing pandemic. I started writing out my thoughts on the economic and financial fallout of the virus to try to productively point my distraction towards something. I figured I may as well share it with the world. You can get the pdf [here](/assets/pdfs/document.pdf).
+If you are like me, you have probably found it difficult to focus on anything besides the ongoing pandemic. I started writing out my thoughts on the economic response to the virus to try to productively point my distraction towards something. I figured I may as well share it with the world. Note that I have been working on this post over the course of the last week, so aspects of it are already outdated.  You can get the pdf [here](/assets/pdfs/corona.pdf).
