@@ -2,7 +2,7 @@
 title: "Is There an On-the-Run Premium in TIPS?"
 collection: publications
 permalink: /publication/2020-03-20-otr_premium_TIPS
-#date: 2017-09-15
+date: 2017-09-15
 #venue: 'Journal 1'
 paperurl: 'https://www.frbsf.org/economic-research/files/wp2017-10.pdf'
 citation: 'Christensen, Jens H. E., Jose A. Lopez, Patrick Shultz. 2017.  &quot;Is there an On-The-Run Premium

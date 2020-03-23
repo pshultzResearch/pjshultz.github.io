@@ -2,7 +2,7 @@
 title: "Bond Flows and Liquidity: Do Foreigners Matter?"
 collection: publications
 permalink: /publication/2020-03-20-mexico_debt
-#date: 2019-12-15
+date: 2019-12-15
 #venue: 'Journal 1'
 paperurl: 'https://www.frbsf.org/economic-research/files/wp2019-08.pdf'
 citation: 'Christensen, Jens H. E., Eric Fischer, Patrick Shultz. 2019.  &quot;Bond Flows and Liquidity:
