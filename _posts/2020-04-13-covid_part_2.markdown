@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Thoughts on the economics of COVID-19--Part 2"
+date:   2020-04-13 11:00:00 -0400
+categories: Thoughts
+---
+Mike Tubbs and I have written our thoughts on recent Fed actions as well as bail outs. We discuss negative interest rates, unconventional monetary policy, joint Treasury/Fed actions, and corporate bailouts.  You can get the pdf [here](/assets/pdfs/part2.pdf).
