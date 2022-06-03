@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student at the University of Pennsylvania. My research interests include macrofinance, financial intermediation, and monetary policy. Prior to graduate school I worked as a Research Associate for the Federal Reserve Bank of San Francisco and as a Financial Analyst for ICONIQ Capital.
+I am a fourth year PhD student at the University of Pennsylvania. My research interests include macrofinance, financial intermediation, and monetary policy. Prior to graduate school I worked as a Research Associate for the Federal Reserve Bank of San Francisco and as a Financial Analyst for ICONIQ Capital.
