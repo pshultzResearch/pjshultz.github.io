@@ -7,15 +7,7 @@ date: 2022-06-03
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3901593'
 citation: 'Elenev, Vadim., Tim Landvoigt, Patrick J. Shultz, Stijn Van Nieuwerburgh. 2021.  &quot;Can Monetary Policy Create Fiscal Capacity.&quot; <i>Working paper</i>'
 ---
-In recent decades, long-term interest rates around the world have fallen to historic lows.
-We examine the source of this decline using a dynamic term structure model of Canadian
-nominal and real yields with adjustments for term, liquidity, and inflation risk premiums.
-Canada provides a novel perspective on this issue because of its established indexed debt
-market, negligible distortions from monetary quantitative easing or the zero lower bound,
-and absence of sovereign credit risk. We find that since 2000, the steady-state real interest
-rate has fallen by more than 2 percentage points, long-term inflation expectations have
-edged down, and real bond and inflation risk premiums have varied over time but shown
-little longer-run trend. Therefore, the drop in the equilibrium real rate appears largely to account for the lower new normal in interest rates. 
+Governments around the world have gone on a massive fiscal expansion in response to the Covid crisis, increasing government debt to levels not seen in 75 years. How will this debt be repaid? What role do conventional and unconventional monetary policy play? We investigate debt sustainability in a New Keynesian model with an intermediary sector, realistic fiscal and monetary policy, endogenous convenience yields, and substantial risk premia. When conventional monetary policy is constrained by the ZLB during an economic crisis, increased government spending and lower tax revenue lead to a large rise in government debt and raise the risk of future tax increases. We find that quantitative easing (QE), forward guidance, and an expansion in government discretionary spending all contribute to lowering debt/GDP ratio and reducing this fiscal risk. A transitory QE policy deployed during a crisis stimulates aggregate demand. 
 
 [Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3901593)
 

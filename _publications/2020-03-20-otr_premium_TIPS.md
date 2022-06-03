@@ -6,7 +6,7 @@ date: 2017-09-15
 #venue: 'Journal 1'
 paperurl: 'https://www.frbsf.org/economic-research/files/wp2017-10.pdf'
 citation: 'Christensen, Jens H. E., Jose A. Lopez, Patrick Shultz. 2020.  &quot;Is there an On-The-Run Premium
-in TIPS?.&quot; <i> The Quarterly Jounral of Finance </i>'
+in TIPS?.&quot; <i> The Quarterly Journal of Finance </i>'
 ---
 In the U.S. Treasury market, the most recently issued, or so-called “on-the-run,” security typically trades at a price above those of more seasoned but otherwise comparable securities. This difference is known as the on-the-run premium. In this paper, yield spreads between pairs of Treasury Inflation-Protected Securities (TIPS) with both matching and nearly-matching maturities but of separate vintages are analyzed. Adjusting for differences in conventional liquidity premiums, values of embedded deflation options, and coupon rates, the results show a small, insignificant premium on recently issued TIPS, which leads us to conclude that there is no on-the-run premium in the TIPS market.
 
