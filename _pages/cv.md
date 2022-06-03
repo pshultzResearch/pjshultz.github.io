@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.A. in Economics, Claremont McKenna College, 2015
-* Ph.D in Finance, The Wharton School of the University of Pennsylvania, 2023 (expected)
+* Ph.D in Finance, The Wharton School of the University of Pennsylvania, 2024 (expected)
 
 Work experience
 ======
@@ -20,11 +20,17 @@ Work experience
 
 * 2015-2016: Financial Analyst, ICONIQ Capital
 
+Publications
+======
+* Christensen, Jens H. E., Jose A. Lopez, Patrick J. Shultz. 2020. “Is there an On-The-Run Premium in TIPS?” The Quarterly Journal of Finance. https://doi.org/10.1142/S201013922050007X
+
+* Christensen, Jens H. E., Eric Fischer, Patrick Shultz. 2021. “Bond Flows and Liquidity: Do Foreigners Matter?” Journal of International Money and Finance. https://doi.org/10.1016/j.jimonfin.2021.102397
+
 Working Papers
 ======
-* Christensen, Jens H. E., Jose A. Lopez, Patrick Shultz. 2017. “Is there an On-The-Run Premium in TIPS?” Federal Reserve Bank of San Francisco Working Paper 2017-10. https://doi.org/10.24148/wp2017-10
+* Christensen, Jens H. E., Glenn D. Rusebusch, Patrick J. Shultz. 2021. 2021. “Accounting for Low Long-term Interest Rates: Evidence from Canada” Federal Reserve Bank of San Francisco Working Paper 2020-35.https://doi.org/10.24148/wp2020-35
 
-* Christensen, Jens H. E., Eric Fischer, Patrick Shultz. 2019. “Bond Flows and Liquidity: Do Foreigners Matter?” Federal Reserve Bank of San Francisco Working Paper 2019-08. https://doi.org/10.24148/wp2019-08
+* Elenev, Vadim., Tim Landvoigt, Patrick J. Shultz, Stijn Van Nieuwerburgh. 2021. “Can Monetary Policy Create Fiscal Capacity?”  
 
 
 Non-academic Articles
@@ -50,3 +56,10 @@ Teaching Assistance
 * Spring 2020
   * FNCE 385/885: FinTech: Business, Data, and Analytics for Dr. Shimon Kogan
   * FNCE 239/739: Behavioral Finance for Professor Nikolai Roussanov
+* Fall 2020
+  * FNCE 240/740: Central Banks, Macroeconomic Policy and Financial Markets for Professors Zvi Eckstein and Joao F. Gomes
+* Spring 2021
+    * FNCE 239/739: Behavioral Finance for Professor Marius Guenzel
+* Fall 2022
+  * FNCE 240/740: Central Banks, Macroeconomic Policy and Financial Markets for Professors Zvi Eckstein and Joao F. Gomes
+
