@@ -5,7 +5,7 @@ permalink: /publication/2020-06-22-fiscal_capacity
 date: 2022-06-03
 #venue: 'Journal 1'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3901593'
-citation: 'Elenev, Vadim., Tim Landvoigt, Patrick J. Shultz, Stijn Van Nieuwerburgh. 2021.  &quot;Can Monetary Policy Create Fiscal Capacity.&quot; <i>Federal Reserve Bank of San Francisco Working Paper </i>'
+citation: 'Elenev, Vadim., Tim Landvoigt, Patrick J. Shultz, Stijn Van Nieuwerburgh. 2021.  &quot;Can Monetary Policy Create Fiscal Capacity.&quot; <i>Working paper</i>'
 ---
 In recent decades, long-term interest rates around the world have fallen to historic lows.
 We examine the source of this decline using a dynamic term structure model of Canadian
