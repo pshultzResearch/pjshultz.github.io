@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[CV] (/assets/pdfs/shultz_CV.pdf).
 
 Education
 ======
